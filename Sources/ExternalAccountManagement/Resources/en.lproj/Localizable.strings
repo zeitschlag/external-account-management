@@ -1,0 +1,5 @@
+"AppStore.FullSheet.ExternalPurchases.Action1" = "Continue";
+"AppStore.FullSheet.ExternalPurchases.Action2" = "Cancel";
+"AppStore.FullSheet.ExternalPurchases.Body" = "Any accounts or purchases made outside of this app will be managed by the developer “%@”. Your App Store account, stored payment method, and related features, such as subscription management and refund requests, will not be available. Apple is not responsible for the privacy or security of transactions made with this developer.";
+"AppStore.FullSheet.ExternalPurchases.LearnMore" = "Learn More";
+"AppStore.FullSheet.ExternalPurchases.Title" = "You’re about to leave the app and go to an external website. You will no longer be transacting with Apple.";

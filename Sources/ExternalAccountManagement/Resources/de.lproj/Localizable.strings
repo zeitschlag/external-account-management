@@ -1,0 +1,5 @@
+"AppStore.FullSheet.ExternalPurchases.Action1" = "Weiter";
+"AppStore.FullSheet.ExternalPurchases.Action2" = "Abbrechen";
+"AppStore.FullSheet.ExternalPurchases.Body" = "Alle Accounts und alle Käufe, die außerhalb dieser App eingerichtet bzw. getätigt werden, werden von Entwickler „%@“ verwaltet. Dein App Store-Account, deine gespeicherte Zahlungsmethode und alle damit zusammenhängenden Features, wie das Abonnementsmanagement und die Rückerstattung, werden nicht zur Verfügung stehen. Apple ist weder für den Datenschutz noch für die Sicherheit von Transaktionen verantwortlich, die mit diesem Entwickler stattfinden.";
+"AppStore.FullSheet.ExternalPurchases.LearnMore" = "Weitere Informationen";
+"AppStore.FullSheet.ExternalPurchases.Title" = "Du bist dabei, die App zu verlassen und eine externe Webseite anzusteuern. Deine Transaktion findet nicht mehr mit Apple statt.";
